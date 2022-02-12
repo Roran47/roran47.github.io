@@ -1,0 +1,26 @@
+[
+    {
+        "ShipName": "T-70 X=wing",
+        "Alingment": "Resistence",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/2d/4c/2d4cd1c3-4208-4717-bcc1-cdbd6d7c4849/swz25_main.png"
+    },
+    {
+        "ShipName": "T-65 X=wing",
+        "Alingment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/2a/152a7284-db03-478a-838c-7097a12f0110/swz12_main.png"
+    },
+    {
+        "ShipName": "BTL-A4 Y-Wing",
+        "Alingment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c7/17/c717eb1c-d693-437a-91c4-5b87107b0197/swz13_main.png"
+    },
+    {
+        "ShipName": "RZ-2 A-Wing",
+        "Alingment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d3/18/d3189703-6098-4f13-91b7-9e7224b3967a/swz22_main.png"
+    }
+]
