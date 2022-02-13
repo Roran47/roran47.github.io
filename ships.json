@@ -6,6 +6,84 @@
         "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/2d/4c/2d4cd1c3-4208-4717-bcc1-cdbd6d7c4849/swz25_main.png"
     },
     {
+        "ShipName": "RZ-2 A-Wing",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d3/18/d3189703-6098-4f13-91b7-9e7224b3967a/swz22_main.png"
+    },
+    {
+        "ShipName": "Resistance Transport",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/6c/4f/6c4ff7d1-c58d-4c71-a8b5-18b679f26f54/swz45_main.png"
+    },
+    {
+        "ShipName": "Fireball",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c2/b7/c2b7c9e3-73e1-4545-8175-65c6f7d81a45/swz63_main.png"
+    },
+    {
+        "ShipName": "Heralds of Hope",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/6f/8f/6f8ffaa1-af2e-4ddb-9264-b60839b9caf5/swz68_box_left.png"
+    },
+    {
+        "ShipName": "Sith Infiltrator",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/0d/47/0d474636-de68-4c9f-97a9-ebe9cc7bcba0/swz30_main.png"
+    },
+    {
+        "ShipName": "Vulture-class Droid Fighter",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c2/56/c256f987-018c-4d25-b90c-a4a5920029a3/swz31_main.png"
+    },
+    {
+        "ShipName": "Hyena-class Droid Bomber",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/a6/15a61717-ea01-47d2-942d-371466ea4d64/swz41_main.png"
+    },
+    {
+        "ShipName": "Nantex-class Starfighter",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/36/bb/36bbacac-8bee-4c84-bcb6-2d75d1fbc458/swz47_main.png"
+    },
+    {
+        "ShipName": "HMP Droid Gunship",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/ff/88/ff883b80-55f0-4559-a65a-89bce503525b/swz70_main.png"
+    },
+    {
+        "ShipName": "Droid Tri-Fighter",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/9a/28/9a285a26-cdbf-40b4-b767-8ea8138fb85c/swz81_box_left.png"
+    },
+    {
+        "ShipName": "Jango Fett's Slave I",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/3d/d9/3dd99520-e31c-41bd-9bec-31ac7f878d51/swz82_box_left.png"
+    },
+    {
+        "ShipName": "Servants of Strife",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/30/fd/30fd09f7-2030-4109-ba9f-fc54be64cb0d/swz29_main.png"
+    },
+    {
+        "ShipName": "Millennium Falcon",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/77/aa/77aa7182-6f46-45dc-8791-65776b5bdc51/swz39_main.png"
+    },
+    {
         "ShipName": "T-65 X=wing",
         "alignment": "Rebels",
         "edition": "1.0,2.0",
@@ -18,81 +96,57 @@
         "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c7/17/c717eb1c-d693-437a-91c4-5b87107b0197/swz13_main.png"
     },
     {
-        "ShipName": "RZ-2 A-Wing",
-        "alignment": "Resistence",
-        "edition": "2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d3/18/d3189703-6098-4f13-91b7-9e7224b3967a/swz22_main.png"
-    },
-    {
-        "ShipName": "T-70 X=wing",
-        "alignment": "Resistence",
-        "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/2d/4c/2d4cd1c3-4208-4717-bcc1-cdbd6d7c4849/swz25_main.png"
-    },
-    {
-        "ShipName": "T-65 X=wing",
+        "ShipName": "A/SF-01 B-Wing",
         "alignment": "Rebels",
         "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/2a/152a7284-db03-478a-838c-7097a12f0110/swz12_main.png"
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/81/22/8122e8ba-5a72-40db-b4cb-5fd927fe1527/swz42_main.png"
     },
     {
-        "ShipName": "BTL-A4 Y-Wing",
+        "ShipName": "Ghost",
         "alignment": "Rebels",
         "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c7/17/c717eb1c-d693-437a-91c4-5b87107b0197/swz13_main.png"
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/81/bb/81bb7bbc-ca33-472a-acbc-c9e49e0a4078/swz49_main.png"
     },
     {
-        "ShipName": "RZ-2 A-Wing",
-        "alignment": "Resistence",
-        "edition": "2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d3/18/d3189703-6098-4f13-91b7-9e7224b3967a/swz22_main.png"
-    },
-    {
-        "ShipName": "T-70 X=wing",
-        "alignment": "Resistence",
-        "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/2d/4c/2d4cd1c3-4208-4717-bcc1-cdbd6d7c4849/swz25_main.png"
-    },
-    {
-        "ShipName": "T-65 X=wing",
+        "ShipName": "Tantive IV",
         "alignment": "Rebels",
         "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/2a/152a7284-db03-478a-838c-7097a12f0110/swz12_main.png"
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/42/64/4264331a-94ca-475b-a0b0-bf303a916d3b/swz55_main.png"
     },
     {
-        "ShipName": "BTL-A4 Y-Wing",
+        "ShipName": "RZ-1 A-Wing",
         "alignment": "Rebels",
         "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c7/17/c717eb1c-d693-437a-91c4-5b87107b0197/swz13_main.png"
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/b8/b7/b8b7903a-49da-429f-aff3-7cb772e4001f/swz61_main.png"
     },
     {
-        "ShipName": "RZ-2 A-Wing",
-        "alignment": "Resistence",
-        "edition": "2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d3/18/d3189703-6098-4f13-91b7-9e7224b3967a/swz22_main.png"
-    },
-    {
-        "ShipName": "T-70 X=wing",
-        "alignment": "Resistence",
+        "ShipName": "TIE/fo Fighter",
+        "alignment": "First Order",
         "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/2d/4c/2d4cd1c3-4208-4717-bcc1-cdbd6d7c4849/swz25_main.png"
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/85/06/850673f0-4e0b-4c34-ad76-01c3b4a5c187/swz26_main.png"
     },
     {
-        "ShipName": "T-65 X=wing",
-        "alignment": "Rebels",
+        "ShipName": "TIE/vn Silencer",
+        "alignment": "First Order",
         "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/2a/152a7284-db03-478a-838c-7097a12f0110/swz12_main.png"
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/a4/69/a4697aa3-6ec1-4013-ade2-3b68385231dd/swz27_main.png"
     },
     {
-        "ShipName": "BTL-A4 Y-Wing",
-        "alignment": "Rebels",
+        "ShipName": "TIE/sf Fighter",
+        "alignment": "First Order",
         "edition": "1.0,2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c7/17/c717eb1c-d693-437a-91c4-5b87107b0197/swz13_main.png"
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/35/1b/351b6d55-7e99-4d1b-8d8b-9a03044e0430/swz44_main.png"
     },
     {
-        "ShipName": "RZ-2 A-Wing",
-        "alignment": "Resistence",
-        "edition": "2.0",
-        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d3/18/d3189703-6098-4f13-91b7-9e7224b3967a/swz22_main.png"
+        "ShipName": "Major Vonreg's TIE",
+        "alignment": "First Order",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/cb/07/cb070dce-770c-45dd-bb1a-784ffda49676/swz62_main.png"
+    },
+    {
+        "ShipName": "Xi-class Light Shuttle",
+        "alignment": "First Order",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/eb/7a/eb7a4fb7-07a9-4a9e-841d-92e7e8d41cfb/swz69_main.png"
     }
 ]

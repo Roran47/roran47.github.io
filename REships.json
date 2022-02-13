@@ -1,0 +1,45 @@
+[
+    {
+        "ShipName": "Millennium Falcon",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/77/aa/77aa7182-6f46-45dc-8791-65776b5bdc51/swz39_main.png"
+    },
+    {
+        "ShipName": "T-65 X=wing",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/2a/152a7284-db03-478a-838c-7097a12f0110/swz12_main.png"
+    },
+    {
+        "ShipName": "BTL-A4 Y-Wing",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c7/17/c717eb1c-d693-437a-91c4-5b87107b0197/swz13_main.png"
+    },
+    {
+        "ShipName": "A/SF-01 B-Wing",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/81/22/8122e8ba-5a72-40db-b4cb-5fd927fe1527/swz42_main.png"
+    },
+    {
+        "ShipName": "Ghost",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/81/bb/81bb7bbc-ca33-472a-acbc-c9e49e0a4078/swz49_main.png"
+    },
+    {
+        "ShipName": "Tantive IV",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/42/64/4264331a-94ca-475b-a0b0-bf303a916d3b/swz55_main.png"
+    },
+    {
+        "ShipName": "RZ-1 A-Wing",
+        "alignment": "Rebels",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/b8/b7/b8b7903a-49da-429f-aff3-7cb772e4001f/swz61_main.png"
+    }
+    
+]

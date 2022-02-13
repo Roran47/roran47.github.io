@@ -1,0 +1,50 @@
+[
+    {
+        "ShipName": "Sith Infiltrator",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/0d/47/0d474636-de68-4c9f-97a9-ebe9cc7bcba0/swz30_main.png"
+    },
+    {
+        "ShipName": "Vulture-class Droid Fighter",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c2/56/c256f987-018c-4d25-b90c-a4a5920029a3/swz31_main.png"
+    },
+    {
+        "ShipName": "Hyena-class Droid Bomber",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/15/a6/15a61717-ea01-47d2-942d-371466ea4d64/swz41_main.png"
+    },
+    {
+        "ShipName": "Nantex-class Starfighter",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/36/bb/36bbacac-8bee-4c84-bcb6-2d75d1fbc458/swz47_main.png"
+    },
+    {
+        "ShipName": "HMP Droid Gunship",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/ff/88/ff883b80-55f0-4559-a65a-89bce503525b/swz70_main.png"
+    },
+    {
+        "ShipName": "Droid Tri-Fighter",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/9a/28/9a285a26-cdbf-40b4-b767-8ea8138fb85c/swz81_box_left.png"
+    },
+    {
+        "ShipName": "Jango Fett's Slave I",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/3d/d9/3dd99520-e31c-41bd-9bec-31ac7f878d51/swz82_box_left.png"
+    },
+    {
+        "ShipName": "Servants of Strife",
+        "alignment": "Separatist",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/30/fd/30fd09f7-2030-4109-ba9f-fc54be64cb0d/swz29_main.png"
+    }
+]

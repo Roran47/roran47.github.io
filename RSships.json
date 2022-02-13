@@ -1,0 +1,33 @@
+[
+    {
+        "ShipName": "T-70 X=wing",
+        "alignment": "Resistence",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/2d/4c/2d4cd1c3-4208-4717-bcc1-cdbd6d7c4849/swz25_main.png"
+    },
+    {
+        "ShipName": "RZ-2 A-Wing",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d3/18/d3189703-6098-4f13-91b7-9e7224b3967a/swz22_main.png"
+    },
+    {
+        "ShipName": "Resistance Transport",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/6c/4f/6c4ff7d1-c58d-4c71-a8b5-18b679f26f54/swz45_main.png"
+    },
+    {
+        "ShipName": "Fireball",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/c2/b7/c2b7c9e3-73e1-4545-8175-65c6f7d81a45/swz63_main.png"
+    },
+    {
+        "ShipName": "Heralds of Hope",
+        "alignment": "Resistence",
+        "edition": "2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/6f/8f/6f8ffaa1-af2e-4ddb-9264-b60839b9caf5/swz68_box_left.png"
+    }
+    
+]

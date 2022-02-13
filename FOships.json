@@ -1,0 +1,32 @@
+[
+    {
+        "ShipName": "TIE/fo Fighter",
+        "alignment": "First Order",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/85/06/850673f0-4e0b-4c34-ad76-01c3b4a5c187/swz26_main.png"
+    },
+    {
+        "ShipName": "TIE/vn Silencer",
+        "alignment": "First Order",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/a4/69/a4697aa3-6ec1-4013-ade2-3b68385231dd/swz27_main.png"
+    },
+    {
+        "ShipName": "TIE/sf Fighter",
+        "alignment": "First Order",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/35/1b/351b6d55-7e99-4d1b-8d8b-9a03044e0430/swz44_main.png"
+    },
+    {
+        "ShipName": "Major Vonreg's TIE",
+        "alignment": "First Order",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/cb/07/cb070dce-770c-45dd-bb1a-784ffda49676/swz62_main.png"
+    },
+    {
+        "ShipName": "Xi-class Light Shuttle",
+        "alignment": "First Order",
+        "edition": "1.0,2.0",
+        "imageUrl": "https://images-cdn.fantasyflightgames.com/filer_public/eb/7a/eb7a4fb7-07a9-4a9e-841d-92e7e8d41cfb/swz69_main.png"
+    }
+]
